@@ -1,3 +1,9 @@
+# STM32CubeIDE
+DiscoBmsTest/Debug/
+DiscoBmsTest/Release/
+DiscoBmsTest/.settings/
+DiscoBmsTest/.metadata/
+
 # Prerequisites
 *.d
 
